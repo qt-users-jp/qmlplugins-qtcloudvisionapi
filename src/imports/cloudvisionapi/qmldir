@@ -1,0 +1,3 @@
+module jp.qtusers.tasuku.cloudvisionapi
+plugin declarative_cloudvisionapi
+typeinfo plugins.qmltypes
